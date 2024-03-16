@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Style Manipulation</title>
+  <style>
+    .box {
+      width: 200px;
+      height: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 20px;
+      border: 2px solid black;
+      border-radius: 0px;
+    }
+  </style>
+</head>
+<body>
+  <div class="controls">
+    <label for="colorPicker">Background Color:</label>
+    <input type="color" id="colorPicker" onchange="colorPicker()">
+    <br>
+  
+    <label for="textColorPicker">Text Color:</label>
+    <input type="color" id="textColorPicker" onchange="textColorPicker()">
+    <br>
+  
+    <label for="textSize">Text Size:</label>
+    <input type="number" id="textSize" placeholder="Text Size" onkeyup="textSize()">
+    <br>
+
+    <label for="widthInput">Width:</label>
+    <input type="number" id="widthInput" placeholder="Width" onkeyup="widthInput()">
+    <br>
+
+    <label for="heightInput">Height:</label>
+    <input type="number" id="heightInput" placeholder="Height" onkeyup="heightInput()">
+    <br>
+  
+    <label for="borderRadiusRange">Border Radius:</label>
+    <input type="range" id="borderRadiusRange" oninput="borderRadiusRange()">
+    <br>
+  </div>
+
+  <div id="styleBox" class="box">Sample Text</div>
+  <br>
+  <script src="script.js"></script>
+</body>
+</html>

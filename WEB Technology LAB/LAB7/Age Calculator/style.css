@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  padding: 5px;
+}
+
+.container {
+  max-width: 700px;
+  margin: 100px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  text-align: center;
+  width: 100% auto;
+  color: white;
+  background-color: blue;
+  padding: 10px;
+}
+
+h2 {
+  color: red;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+label {
+  text-align: left;
+  font-weight: bold;
+}
+
+#birthdate {
+  padding: 5px;
+  margin: 10px 0;
+}
+
+button {
+  font-size: large;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 50%;
+  align-self: center;
+}
+
+.result-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.age-output {
+  color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+span {
+  margin: 0 5px;
+}

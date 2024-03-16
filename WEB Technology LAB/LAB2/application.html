@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APPLICATION</title>
+</head>
+<body align="center">
+    <h1>Company Name</h1>
+    
+    <hr>
+    <a href="home.html">Media Element</a>
+    <a href="application.html">Application Form</a>
+
+    <hr>
+
+    <form action="submit.html" method="post">
+        <fieldset>
+            <table align="center">
+            <legend align="center">Application Form</legend>
+            <tr>
+                <td align="left">
+                    <label for="name" >Name:</label>
+                </td>
+                <td align="left">
+                    <input type="text" name="fullname" placeholder="Enter your Name" id="name" required>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="appno" >Application Number:</label>
+                </td>
+                <td align="left">
+                    <input type="text" name="appno" placeholder="KU2021CSE1001" id="appno" required>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="passwd">Password:</label>
+                </td>
+                <td align="left">
+                    <input type="password" name="PassWD" id="passwd" pattern="[0-9]{6}" maxlength="6" required>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="date">Date Of Birth:</label>
+                </td>
+                <td align="left">
+                    <input type="date" name="DOB" id="date">
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="age">Age:</label>
+                </td>
+                <td align="left">
+                    <input type="number" name="age" id="age" required>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="no">Mobile Number:</label>
+                </td>
+                <td align="left">
+                    <input type="number" name="no" id="no" placeholder="Enter your Mobile Number" pattern="[0-9]{10}" required>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="email">Email ID:</label>
+                </td>
+                <td align="left">
+                    <input type="email" name="EmailID" placeholder="Enter your Email ID" id="email" required>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label>Gender:</label>
+                </td>
+                <td align="left">
+                    <input type="radio" name="gender" value="male" checked>Male
+                    <input type="radio" name="gender" value="female">Female
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="address">Address:</label>
+                </td>
+                <td align="left">
+                    <textarea name="address" id="address" rows="5" cols="10"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="skill">Languages Known:</label>
+                </td>
+                <td align="left">
+                    <input type="checkbox" name="language[]" value="English" checked>English
+                    <input type="checkbox" name="language[]" value="Tamil">Tamil
+                    <input type="checkbox" name="language[]" value="Malayalam">Malayalam
+                    <input type="checkbox" name="language[]" value="Hindi">Hindi
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label for="course">Select your Course:</label>
+                </td>
+                <td align="left">
+                    <select name="course" id="course" required>
+                        <option>B.Tech CSE</option>
+                        <option>B.Tech AI/DS</option>
+                        <option>B.Tech ECE</option>
+                        <option>B.Tech AI/ML</option>
+                        <option>B.Tech BioTech</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label>Upload your Photo:</label>
+                </td>
+                <td align="left">
+                    <input type="file" name="data">
+                </td>
+            </tr>
+        <tr>
+            <td></td>
+            <td>
+                <progress value="55" max="100"></progress> 55% Upload Completed
+            </td>
+        </tr>
+            <tr>
+                <td align="left"></td>
+                <td align="left">
+                    <input type="submit" for="image_submit">
+                </td>
+            </tr>
+        </table>
+        </fieldset>
+    </form>
+    
+</body>
+</html>

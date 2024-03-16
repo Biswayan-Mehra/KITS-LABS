@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Animation</title>
+    <style>
+        #pillar {
+            position: absolute;
+            right: 900px;
+            top: 0;
+            width: 10px;
+            height: 100%;
+            background-color: red;
+        }
+    </style>
+    <script src="logic.js"></script>
+</head>
+<body onload="sayWelcome()">
+    <div>
+        <img id="box" src="car.png" alt="car_image" width="200px" height="175px">
+    </div>
+    <div id="pillar"></div>
+    <br><br>
+    <button onclick="startAnime()">Start Animation</button>
+    <button onclick="stopAnime()">Stop Animation</button>
+    <button onclick="resetPosition()">Reset Position</button>
+</body>
+</html>

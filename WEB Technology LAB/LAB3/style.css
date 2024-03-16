@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+}
+.Title {
+  background-color: rgb(33, 13, 102);
+  text-align: center;
+  color: white;
+}
+.banner {
+  height: 300px;
+  background-image: url(https://www.karunya.edu/img/general/aerial-view.jpg.pagespeed.ce.4_-R-b0nuM.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  object-fit: contain;
+}
+
+.abtus {
+  background-color: rgb(255, 243, 176);
+  text-align: center;
+}
+.base {
+  background-color: rgb(255, 243, 176);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.info {
+  color: rgb(14, 10, 10);
+  background-color: rgba(255, 255, 255, 0.449);
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  font-size: 20px;
+  padding: 10px;
+  opacity: 70%;
+  border-radius: 8px;
+}
+
+.box1 {
+  height: 400px;
+  background-image: url(https://shooliniuniversity.com/blog/wp-content/uploads/2022/03/Btech-CSE.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 33.33%;
+  float: left;
+}
+.box2 {
+  width: 33.33%;
+  height: 400px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Long_Room_Interior%2C_Trinity_College_Dublin%2C_Ireland_-_Diliff.jpg/1200px-Long_Room_Interior%2C_Trinity_College_Dublin%2C_Ireland_-_Diliff.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  float: left;
+}
+.box3 {
+  width: 33.33%;
+  height: 400px;
+  background-image: url(https://www.mytechmag.com/wp-content/uploads/2022/04/biotechnology-examples-types.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.Dbox1 {
+  background-color: rgb(226, 254, 195);
+  width: 50%;
+  float: left;
+  height: 400px;
+}
+.Ibox1 {
+  background-image: url(https://karunya.edu/sites/default/files/img/site/campus-life/front-campus-life-1.jpg.pagespeed.ce.eJD9u_IILR.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  float: left;
+  height: 400px;
+}
+.Ibox2 {
+  background-image: url(https://dhyeyaias.com/hindi/sites/default/files/Drone-A-Thon-Hackathon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  float: left;
+  height: 400px;
+}
+.Dbox2 {
+  background-color: rgb(226, 254, 195);
+  width: 50%;
+  float: left;
+  height: 400px;
+}

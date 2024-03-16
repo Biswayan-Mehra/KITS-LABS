@@ -1,0 +1,17 @@
+<div class="container">
+  <h2 class="page-title">Sign Up</h2>
+  <form
+    class="form-group"
+    ng-app="signupApp"
+    ng-controller="signupController"
+    ng-submit="submitForm()"
+  >
+    <label for="fullname">Full Name:</label>
+    <input type="text" id="fullname" ng-model="fullname" required />
+    <label for="email">Email:</label>
+    <input type="email" id="email" ng-model="email" required />
+    <label for="password">Password:</label>
+    <input type="password" id="password" ng-model="password" required />
+    <button class="button">Sign Up</button>
+  </form>
+</div>

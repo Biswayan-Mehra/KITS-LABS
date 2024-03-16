@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="gradeCalculatorApp">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Student Marks Grade Calculation</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="app.js"></script>
+  </head>
+  <body ng-controller="GradeCalculatorController">
+    <div class="container">
+      <h1>Grade Evaluation</h1>
+      <div class="input-container">
+        <label for="name">Student Name:</label>
+        <input
+          type="text"
+          ng-model="studentName"
+          id="name"
+          placeholder="Enter name"
+          required
+        />
+      </div>
+
+      <div class="input-container">
+        <label for="regno">Registration Number:</label>
+        <input
+          type="text"
+          ng-model="registrationNumber"
+          id="regno"
+          placeholder="Enter registration number"
+          required
+        />
+      </div>
+
+      <div class="input-container">
+        <label for="course1">Course 1 Marks:</label>
+        <input
+          type="number"
+          ng-model="course1Marks"
+          id="course1"
+          placeholder="Enter marks for Course 1"
+          required
+        />
+      </div>
+
+      <div class="input-container">
+        <label for="course2">Course 2 Marks:</label>
+        <input
+          type="number"
+          ng-model="course2Marks"
+          id="course2"
+          placeholder="Enter marks for Course 2"
+          required
+        />
+      </div>
+
+      <div class="input-container">
+        <label for="course3">Course 3 Marks:</label>
+        <input
+          type="number"
+          ng-model="course3Marks"
+          id="course3"
+          placeholder="Enter marks for Course 3"
+          required
+        />
+      </div>
+
+      <div class="input-container">
+        <label for="course4">Course 4 Marks:</label>
+        <input
+          type="number"
+          ng-model="course4Marks"
+          id="course4"
+          placeholder="Enter marks for Course 4"
+          required
+        />
+      </div>
+
+      <div class="input-container">
+        <label for="course5">Course 5 Marks:</label>
+        <input
+          type="number"
+          ng-model="course5Marks"
+          id="course5"
+          placeholder="Enter marks for Course 5"
+          required
+        />
+      </div>
+
+      <div class="input-container">
+        <button ng-click="calculateGrade()">Find Grade</button>
+      </div>
+
+      <div class="result">
+        <p>Student Name: {{ studentName }}</p>
+        <p>Registration Number: {{ registrationNumber }}</p>
+        <p>Average Marks: {{ average }}</p>
+        <p>Grade: {{ grade }}</p>
+      </div>
+    </div>
+  </body>
+</html>

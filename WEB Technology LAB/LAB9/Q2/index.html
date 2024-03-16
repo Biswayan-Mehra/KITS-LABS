@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Dashboard</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-route.js"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body ng-app="myApp">
+    <div class="main-container">
+      <h2 class="dashboard-heading">My Dashboard</h2>
+      <nav class="main-navigation">
+        <ul class="nav-options">
+          <li><a href="#!personal">Personal Details</a></li>
+          <li><a href="#!academic">Academic Details</a></li>
+          <li><a href="#!project">Project / Internship Details</a></li>
+          <li><a href="#!login">Login Page</a></li>
+          <li><a href="#!signup">Sign Up Page</a></li>
+        </ul>
+      </nav>
+      <div class="content-container" ng-view></div>
+    </div>
+  </body>
+</html>

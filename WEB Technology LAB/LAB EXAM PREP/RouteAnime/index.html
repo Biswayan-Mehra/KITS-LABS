@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>END SEM LAB</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-route.js"></script>
+    <script>
+      var app = angular.module("MyApp", ["ngRoute"]);
+      app.config(function ($routeProvider) {
+        $routeProvider
+          .when("/", { templateUrl: "/LAB EXAM PREP/RouteAnime/welcome.html" })
+          .when("/welcome", {
+            templateUrl: "/LAB EXAM PREP/RouteAnime/welcome.html",
+          })
+          .when("/carAnimation", {
+            templateUrl: "/LAB EXAM PREP/RouteAnime/carAnimation.html",
+          })
+          .otherwise({ redirectTo: "/" });
+      });
+    </script>
+  </head>
+  <body ng-app="MyApp">
+    <div id="core">
+      <h1>MY SPA</h1>
+      <div id="nav-bar">
+        <a href="#!Welcome">Welcome</a>
+        <a href="#!carAnimation">Car Animation</a>
+      </div>
+    </div>
+    <div id="content" ng-view></div>
+  </body>
+</html>
