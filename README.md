@@ -5,11 +5,19 @@ Welcome to KITS-LABS, a curated collection of laboratory experiments designed fo
 What You Will Find Here:
 
 Data Structures and Algorithms: Dive into the core concepts with practical experiments.
+
 Design and Analysis of Algorithms: Enhance your understanding of algorithm efficiency and complexity.
+
 Introduction to Data Science: Explore data science fundamentals through interactive labs.
+
 Object-Oriented Programming (JAVA): Master OOP concepts using Java with comprehensive lab exercises.
+
 Operating Systems: Gain insights into the workings of modern operating systems.
+
 WEB Technology: Learn web development techniques using HTML and other web technologies.
+
+DCSE is a collection of Datasets used by all the experiments in KITS.
+
 Stay Updated:
 We are committed to keeping the repository up-to-date with the latest experiments and resources. Your feedback and contributions are welcome!
 
