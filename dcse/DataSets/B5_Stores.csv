@@ -1,0 +1,51 @@
+﻿Branch,City,Customer,Gender,Product line,Unit_price,Quantity,Tax,Total,Payment,cogs,Rating,Age,Quarterly_Tax,Price
+A,Yangon,Member,Female,Health and beauty,74.69,7,26.1415,548.9715,Ewallet,522.83,9.1,23,210,7469
+C,Naypyitaw,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,Cash,76.4,9.6,23,210,1528
+A,Yangon,Normal,Male,Home and lifestyle,46.33,7,16.2155,340.5255,Credit card,324.31,7.4,24,210,4633
+A,Yangon,Member,Male,Health and beauty,58.22,8,23.288,489.048,Ewallet,465.76,8.4,26,210,5822
+A,Yangon,Normal,Male,Sports and travel,86.31,60,30.2085,634.3785,Ewallet,604.17,5.3,30,210,8631
+C,Naypyitaw,Normal,Male,Electronic accessories,85.39,7,29.8865,627.6165,Ewallet,597.73,4.1,32,210,8539
+A,Yangon,Member,Female,,68.84,6,20.652,433.692,Ewallet,413.04,5.8,27,210,6884
+C,Naypyitaw,Normal,Female,,73.56,10,36.78,772.38,Ewallet,735.6,8,30,210,7356
+A,Yangon,Member,Female,,36.26,2,3.626,76.146,Credit card,72.52,7.2,27,100,3626
+B,Mandalay,Member,Female,,54.84,3,8.226,172.746,Credit card,164.52,5.9,23,185,5484
+B,Mandalay,Member,Female,,14.48,4,2.896,60.816,Ewallet,57.92,4.5,25,100,1448
+B,Mandalay,Member,Male,,25.51,4,5.102,107.142,Cash,102.04,6.8,22,100,2551
+A,Yangon,Normal,Female,Electronic accessories,46.95,5,11.7375,246.4875,Ewallet,234.75,7.1,25,100,4695
+A,Yangon,Normal,Male,Food and beverages,43.19,10,21.595,453.495,Ewallet,431.9,8.2,31,100,4319
+A,Yangon,Normal,Female,Health and beauty,71.38,10,35.69,749.49,Cash,713.8,5.7,32,100,7138
+B,Mandalay,Member,Female,Sports and travel,93.72,6,28.116,590.436,Cash,562.32,4.5,28,100,9372
+A,Yangon,Member,Female,Health and beauty,68.93,7,24.1255,506.6355,Credit card,482.51,4.6,30,100,6893
+,Yangon,Normal,Male,Sports and travel,72.61,6,21.783,457.443,Credit card,435.66,6.9,24,85,7261
+,Yangon,Normal,Male,Food and beverages,54.67,3,8.2005,172.2105,Credit card,164.01,8.6,24,19,5467
+,Mandalay,Normal,Female,Home and lifestyle,40.3,2,4.03,84.63,Ewallet,80.6,4.4,30,85,4030
+,Naypyitaw,Member,Male,Electronic accessories,86.04,5,21.51,451.71,Ewallet,430.2,4.8,30,85,8604
+,Mandalay,Normal,Male,Health and beauty,87.98,55,13.197,277.137,Ewallet,263.94,5.1,29,100,8798
+B,Mandalay,Normal,Male,Home and lifestyle,33.2,2,3.32,69.72,Credit card,66.4,4.4,28,85,3320
+A,Yangon,Normal,Male,Electronic accessories,34.56,5,8.64,181.44,Ewallet,172.8,9.9,28,85,3456
+A,Yangon,Member,Male,Sports and travel,88.63,3,13.2945,279.1845,Ewallet,265.89,6,29,85,8863
+A,Yangon,Member,Female,Home and lifestyle,52.59,8,21.036,441.756,Credit card,420.72,8.5,25,85,5259
+B,Mandalay,Normal,Male,Fashion accessories,33.52,1,1.676,35.196,Cash,33.52,6.7,27,85,3352
+A,Yangon,Normal,Female,Fashion accessories,87.67,2,8.767,184.107,Credit card,175.34,7.7,29,85,8767
+B,Mandalay,Normal,Female,Food and beverages,88.36,5,22.09,463.89,Cash,441.8,9.6,28,85,8836
+A,Yangon,Normal,Male,Health and beauty,24.89,9,11.2005,235.2105,Cash,224.01,7.4,30,85,2489
+B,Mandalay,Normal,Male,Fashion accessories,94.13,5,23.5325,494.1825,Credit card,470.65,4.8,29,19,9413
+B,Mandalay,Member,Male,Sports and travel,78.07,9,35.1315,737.7615,Cash,702.63,4.5,22,85,7807
+B,Mandalay,Normal,Male,Sports and travel,83.78,8,33.512,703.752,Cash,670.24,5.1,27,85,8378
+A,Yangon,Normal,Male,,96.58,2,9.658,202.818,Credit card,193.16,5.1,26,85,9658
+C,Naypyitaw,Member,Female,,99.42,4,19.884,417.564,Ewallet,397.68,7.5,22,85,9942
+C,Naypyitaw,Member,Female,,68.12,1,3.406,71.526,Ewallet,68.12,6.8,26,85,6812
+,Yangon,Member,Male,,62.62,5,15.655,328.755,Ewallet,313.1,7,25,85,6262
+,Yangon,Normal,Female,,60.88,57,27.396,575.316,Ewallet,547.92,4.7,23,85,6088
+,Naypyitaw,Normal,Female,,54.92,8,21.968,461.328,Ewallet,439.36,7.6,32,85,5492
+,Mandalay,Member,Male,,30.12,8,12.048,253.008,Cash,240.96,7.7,27,85,3012
+,Mandalay,Member,Female,,86.72,1,4.336,91.056,Ewallet,86.72,7.9,22,85,8672
+,Naypyitaw,Member,Male,,56.11,2,5.611,117.831,Cash,112.22,6.3,27,85,5611
+,Mandalay,Member,Female,,69.12,6,20.736,435.456,Cash,414.72,5.6,22,85,6912
+C,Naypyitaw,Member,Female,,98.7,8,39.48,829.08,Cash,789.6,7.6,27,234,9870
+C,Naypyitaw,Member,Male,,15.37,2,1.537,32.277,Cash,30.74,7.2,22,234,1537
+B,Mandalay,Member,Female,Electronic accessories,93.96,4,18.792,394.632,Cash,375.84,9.5,23,234,9396
+B,Mandalay,Member,Male,Health and beauty,56.69,9,25.5105,535.7205,Credit card,510.21,8.4,27,234,5669
+B,Mandalay,Member,Female,Food and beverages,20.01,56,9.0045,189.0945,Ewallet,180.09,4.1,22,85,2001
+B,Mandalay,Member,Male,Electronic accessories,18.93,6,5.679,119.259,Credit card,113.58,8.1,22,234,1893
+B,Mandalay,Member,Male,Electronic accessories,18.93,6,5.679,119.259,Credit card,113.58,8.1,22,234,1893
