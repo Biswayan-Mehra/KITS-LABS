@@ -1,0 +1,101 @@
+ID,Age,Gender,Income,Education,Score
+1,62,Female,60800,PhD,6
+2,65,Female,35620,PhD,81
+3,18,Female,90381,Bachelor,71
+4,21,Female,74268,Master,84
+5,21,Male,89069,Master,89
+6,57,Female,88473,College,66
+7,27,Female,62512,Bachelor,60
+8,37,Female,39608,PhD,16
+9,39,Female,90557,Master,56
+10,68,Male,37340,Master,23
+11,54,Female,21913,College,24
+12,41,Female,72086,College,4
+13,24,Male,33429,College,49
+14,42,Male,33907,College,87
+15,42,Female,55489,Bachelor,30
+16,30,Male,30088,High School,54
+17,19,Male,35588,Master,25
+18,56,Male,58395,College,20
+19,57,Male,80155,PhD,97
+20,41,Female,58214,Master,57
+21,64,Female,20469,College,23
+22,42,Male,63295,College,27
+23,35,Male,94253,Bachelor,29
+24,55,Female,54488,High School,33
+25,43,Male,58040,High School,53
+26,31,Female,36975,Bachelor,51
+27,26,Female,35912,PhD,86
+28,27,Female,48086,High School,7
+29,38,Female,35115,PhD,9
+30,69,Male,99983,Master,54
+31,34,Male,72573,Master,0
+32,69,Male,84223,High School,83
+33,23,Female,31052,High School,36
+34,33,Male,35741,Master,81
+35,65,Female,77368,Master,20
+36,18,Female,63986,High School,3
+37,36,Female,25103,Master,42
+38,53,Male,55050,High School,65
+39,42,Female,21740,Bachelor,20
+40,67,Male,75270,College,36
+41,69,Male,32579,High School,68
+42,47,Female,91382,PhD,80
+43,37,Male,67805,High School,47
+44,37,Female,40165,Master,10
+45,32,Female,22775,PhD,94
+46,57,Male,50752,PhD,91
+47,50,Male,99464,College,43
+48,19,Female,91892,High School,63
+49,27,Male,53930,Bachelor,31
+50,50,Female,66774,PhD,20
+51,49,Male,48651,PhD,70
+52,28,Female,82885,Bachelor,9
+53,41,Male,35997,PhD,60
+54,53,Female,85180,Master,91
+55,29,Male,94498,Bachelor,35
+56,68,Female,83003,Master,83
+57,46,Male,54009,High School,76
+58,52,Male,63671,High School,18
+59,18,Male,89939,High School,74
+60,18,Female,37582,Master,98
+61,54,Male,49844,PhD,97
+62,23,Female,58429,PhD,43
+63,56,Male,96323,Bachelor,3
+64,58,Female,80809,Bachelor,12
+65,35,Male,22121,PhD,58
+66,33,Male,65353,College,1
+67,22,Male,23886,Master,0
+68,59,Male,61690,Master,39
+69,60,Male,95523,Master,24
+70,49,Female,25181,College,58
+71,19,Male,63349,Bachelor,36
+72,19,Male,96578,Bachelor,99
+73,57,Female,62914,Master,69
+74,59,Male,90744,Bachelor,6
+75,53,Male,91713,Master,3
+76,56,Male,83720,PhD,98
+77,29,Female,90399,PhD,40
+78,64,Male,67394,Bachelor,60
+79,36,Male,93925,College,33
+80,45,Female,20894,Bachelor,28
+81,18,Male,83413,High School,68
+82,32,Female,68208,Master,26
+83,53,Male,50142,High School,96
+84,30,Male,52904,Bachelor,51
+85,60,Female,46813,PhD,73
+86,38,Female,59041,Master,53
+87,29,Male,79601,Bachelor,69
+88,22,Male,99224,College,33
+89,24,Male,88955,Bachelor,7
+90,22,Female,26004,College,94
+91,65,Female,55620,PhD,72
+92,21,Male,62521,College,84
+93,30,Male,77191,High School,7
+94,54,Male,77852,High School,67
+95,58,Male,42302,High School,85
+96,32,Male,72513,High School,91
+97,33,Female,74545,High School,67
+98,38,Male,40989,College,84
+99,53,Female,22562,High School,71
+100,41,Male,42597,Master,83

@@ -1,0 +1,9 @@
+#define PI 3.14
+#define ADD(x,y){z=x+y}
+#include<stdio. h >
+void main()
+{
+int a=10;
+ADD(x,y);
+z=PI * PI;
+}

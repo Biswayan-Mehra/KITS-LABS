@@ -1,0 +1,27 @@
+QUESTIONS
+-------------------------------------------------------------------------------------
+i) Write a program to count the number of words in any given sentence using LEX.
+Input : English sentence
+Output: Number of occurrences of a word.
+
+18
+ii) Write a LEX Program to count the number of keywords and identifiers in any given
+sentence.
+Input : Program
+Output: count for any two or three keywords and identifiers
+
+iii) Using Lex specification, identify the number of consonants and vowels from a given
+input string.
+Input : English sentence
+Output: Number of consonants and vowels
+
+iv) Write a LEX program to count the numbers of comment lines in a given C program. Also
+eliminate them and copy the resulting program into a separate file.
+Input: Program with comment lines
+Output: count of the comment line and an output file for the program with the
+comment lines deleted.
+-------------------------------------------------------------------------------------
+HOW TO EXECUTE THE CODE:
+lex {file_name}
+cc lex.yy.c
+./a.out << $
