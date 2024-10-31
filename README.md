@@ -22,7 +22,7 @@ Stay Updated:
 We are committed to keeping the repository up-to-date with the latest experiments and resources. Your feedback and contributions are welcome!
 
 Need Help or Have Suggestions?
-Don't hesitate to reach out for any inquiries, issues, or suggestions. Contact me through my LinkedIn page: linkedin.com/in/biswayan-mehra
+Don't hesitate to reach out for any inquiries, issues, or suggestions. Contact me through my [LinkedIn](https://www.linkedin.com/in/biswayan-mehra/) page.
 
 Join Our Learning Journey:
 This repository encapsulates the essence of practical learning and exploration. Whether you are a student at KITS or any other institution, embark on this journey with us to enrich your academic and practical knowledge in engineering and technology.
